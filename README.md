@@ -1,0 +1,2 @@
+# Scribi-rules
+Scribi regulis
