@@ -7,11 +7,8 @@
         "id": "6b93d86df7ffb1ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conventions/README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conventions/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +84,9 @@
   },
   "active": "6b93d86df7ffb1ff",
   "lastOpenFiles": [
-    "conventions/README.md",
+    "README.md",
     "syntax/functions/call.md",
-    "syntax/POO/methods/call.md",
-    "README.md"
+    "conventions/README.md",
+    "syntax/POO/methods/call.md"
   ]
 }

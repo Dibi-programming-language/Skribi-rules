@@ -5,4 +5,4 @@ La fonction devra être utilisée de cette façon :
 ```scribi
 foo(arg1, arg2, arg3)
 ```
-La syntax ets différente pour les [méthodes](../POO/methods/call) !
+La syntax est différente pour les [méthodes](../POO/methods/call) !

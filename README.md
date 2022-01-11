@@ -14,8 +14,8 @@ Le projet est là pour donner des pistes d'avancement.
 * Done = le débat est fini, pas de modification prévue (mais vous pouvez rouvrir le débat)
 
 Il existe pour le moment 2 grandes parties dans ce repo :
-* [la syntax](./syntax/README)
-* [les convetions](./conventions/README)
+* [la syntax](./syntax/) (fichier [[syntax/README]])
+* [les convetions](./conventions/) (fichier [[conventions/README]])
 
 ## English
 
