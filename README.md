@@ -2,7 +2,7 @@
 Scribi regulis
 
 ## Français
-Ce repo vous donnera toute les règles à respecter lorsques vous codez en Scribi.
+Ce repo vous donnera toute les règles à respecter lorsques vous codez en Scribi. Le .obsidian est ici pour les utilisateurs de l'application Obsidian (un éditeur de MarkDown).
 
 Pour faire des suggestions -> [Discord](https://discord.gg/gzQR72ZKKm) ou [issues](https://github.com/Dibi-programming-langage/Scribi-rules/issues).
 
@@ -12,6 +12,10 @@ Le projet est là pour donner des pistes d'avancement.
 * Todo = ajout à venir mais dont le débat n'a pas commencé
 * In Progress = le débat est en cours ou a été rouvert
 * Done = le débat est fini, pas de modification prévue (mais vous pouvez rouvrir le débat)
+
+Il existe pour le moment 2 grandes parties dans ce repo :
+* [la syntax](./syntax/README)
+* [les convetions](./conventions/README)
 
 ## English
 
