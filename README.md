@@ -1,8 +1,8 @@
-# Scribi-rules
-Scribi regulis
+# Skribi-rules
+Skribi regulis
 
 ## Français
-Ce repo vous donnera toute les règles à respecter lorsques vous codez en Scribi. Le .obsidian est ici pour les utilisateurs de l'application Obsidian (un éditeur de MarkDown).
+Ce repo vous donnera toute les règles à respecter lorsques vous codez en Skribi. Le .obsidian est ici pour les utilisateurs de l'application Obsidian (un éditeur de MarkDown).
 
 Pour faire des suggestions -> [Discord](https://discord.gg/gzQR72ZKKm) ou [issues](https://github.com/Dibi-programming-langage/Scribi-rules/issues).
 
