@@ -17,6 +17,10 @@ Il existe pour le moment 2 grandes parties dans ce repo :
 * [la syntax](./syntax/) (fichier [[syntax/README]])
 * [les convetions](./conventions/) (fichier [[conventions/README]])
 
+Actions basiques :
+* [fonctions](syntax/functions/call)
+* [output dans la console](syntax/Input_and_Output/Console/Console_output)
+
 ## English
 
 
