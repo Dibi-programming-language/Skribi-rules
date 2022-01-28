@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conventions/Indentation.md",
+            "file": "syntax/variables/Déclaration varaibles.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conventions/Indentation.md",
+                "file": "syntax/variables/Déclaration varaibles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "6b93d86df7ffb1ff",
   "lastOpenFiles": [
+    "syntax/variables/Déclaration varaibles.md",
     "conventions/Indentation.md",
     "conventions/README.md",
     "syntax/Input_and_Output/Console/Console_output.md",
