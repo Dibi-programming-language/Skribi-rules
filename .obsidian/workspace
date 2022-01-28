@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "syntax/variables/Constantes.md",
+            "file": "syntax/variables/Modification_variables.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "syntax/variables/Constantes.md",
+                "file": "syntax/variables/Modification_variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "6b93d86df7ffb1ff",
   "lastOpenFiles": [
+    "syntax/variables/Modification_variables.md",
     "syntax/variables/Constantes.md",
     "syntax/variables/Déclaration_variables.md",
+    "syntax/variables/utilisation_variables.md",
+    "syntax/types/types.md",
     "conventions/Indentation.md",
     "conventions/README.md",
     "syntax/Input_and_Output/Console/Console_output.md",
     "README.md",
-    "syntax/POO/methods/call.md",
-    "syntax/functions/call.md",
-    "syntax/Input and Output/Input.md"
+    "syntax/POO/methods/call.md"
   ]
 }
