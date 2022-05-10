@@ -16,5 +16,5 @@ oste:Adatali(foo)
 Oste means Show in Dibi and Adatali means Console, hence the choice of [method](../../POO/methods/call) and [class](../../POO/)
 
 
-## dibi
+## Dibi
 
