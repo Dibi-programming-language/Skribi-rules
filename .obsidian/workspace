@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "syntax/variables/Déclaration_variables.md",
     "syntax/variables/Modification_variables.md",
+    "syntax/functions/call.md",
+    "conventions/Indentation.md",
+    "conventions/README.md",
+    "README.md",
     "syntax/variables/Utilisation_variables.md",
     "syntax/variables/Constantes.md",
     "syntax/types/types.md",
-    "conventions/Indentation.md",
-    "conventions/README.md",
-    "syntax/Input_and_Output/Console/Console_output.md",
-    "README.md",
-    "syntax/POO/methods/call.md"
+    "syntax/Input_and_Output/Console/Console_output.md"
   ]
 }
