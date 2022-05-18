@@ -7,11 +7,8 @@
         "id": "6b93d86df7ffb1ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "6b93d86df7ffb1ff",
   "lastOpenFiles": [
-    "README.md",
+    "conventions/README.md",
+    "Français/conventions/README.md",
+    "English/conventions/README.md",
     "Dibi/README.md",
-    "English/README.md",
+    "conventions/Indentation.md",
+    "English/conventions/indentation.md",
+    "Français/conventions/indentation.md",
+    "README.md",
     "Français/README.md",
-    "syntax/prefixe/README.md",
-    "syntax/POO/methods/call.md",
-    "syntax/functions/call.md",
-    "syntax/Input_and_Output/Console/Console_output.md",
-    "syntax/types/types.md",
-    "syntax/variables/utilisation_variables.md"
+    "English/README.md"
   ]
 }

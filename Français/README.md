@@ -10,9 +10,9 @@ Le projet est là pour donner des pistes d'avancement.
 * Done = le débat est fini, pas de modification prévue (mais vous pouvez rouvrir le débat)
 
 Il existe pour le moment 2 grandes parties dans ce repo :
-* [la syntax](./syntax/) (fichier [[syntax/README]])
+* [la syntax](./syntax/) (fichier [[English/syntax/README]])
 * [les conventions](./conventions/) (fichier [[conventions/README]])
 
 Actions basiques :
-* [fonctions](syntax/functions/call)
-* [output dans la console](syntax/Input_and_Output/Console/Console_output)
+* [fonctions](English/syntax/functions/call.md)
+* [output dans la console](Console_output.md)

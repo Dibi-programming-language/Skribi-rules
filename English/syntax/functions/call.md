@@ -5,7 +5,7 @@ La fonction devra être utilisée de cette façon :
 ```skribi
 foo(arg1, arg2, arg3)
 ```
-La syntax est différente pour les [méthodes](../POO/methods/call) !
+La syntax est différente pour les [méthodes](English/syntax/POO/methods/call.md) !
 
 
 ## English
@@ -15,7 +15,7 @@ The function should be used like this :
 ```skribi
 foo(arg1, arg2, arg3)
 ```
-The syntax is different for [methods](../POO/methods/call) !
+The syntax is different for [methods](English/syntax/POO/methods/call.md) !
 
 
 ## Dibi

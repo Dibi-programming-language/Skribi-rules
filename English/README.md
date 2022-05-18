@@ -10,10 +10,10 @@ The project is here to give you some clues on the progress.
 * Done = the debate is closed, no modification is planned (but you can always reopen the debate)
 
 There is, at the moment, 2 main parts in this repository :
-* [syntax](./syntax/) (file [[syntax/README]])
+* [syntax](./syntax/) (file [[English/syntax/README]])
 * [conventions](./conventions/) (file [[conventions/README]])
 
 Actions basiques :
-* [fonctions](syntax/functions/call)
-* [output in console](syntax/Input_and_Output/Console/Console_output)
+* [fonctions](English/syntax/functions/call.md)
+* [output in console](Console_output.md)
 
