@@ -1,0 +1,51 @@
+# Français
+
+Soit une variable `bar` contenant un objet. `foo` est une méthode non static appartenant à la class de cet objet.
+Pour utiliser cette méthode :
+```skribi
+foo:bar()
+```
+
+Si `foo` prend des arguments, il suffit de les ajouter
+```skribi
+foo:bar(arg1, arg2, arg3)
+```
+
+Dans le cas d'une méthode `foo` static appartenant à la class `Bar` c'est exactement la même chose :
+```skribi
+foo:Bar()
+```
+
+## Pourquoi ?
+
+Le dibi utilise une syntaxe vso (verbe-sujet-objet), la méthode se place donc au début pour respecter ce principe.
+
+
+# English
+
+Consider a `bar` variable containing an object. `foo` is a non-static method belonging to it's class.
+To use this method :
+```skribi
+foo:bar()
+```
+
+If `foo` takes arguments, just add them
+```skribi
+foo:bar(arg1, arg2, arg3)
+```
+
+In the case of a `foo` static method belonging to the class `Bar`, it's exactly the same thing :
+```skribi
+foo:Bar()
+```
+
+## Why ?
+
+Dibi use a vso (verb-subject-object) syntax, the method is therefore placed at the beginning.
+
+
+# Dibi
+
+
+## Why ?
+

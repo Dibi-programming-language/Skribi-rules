@@ -7,8 +7,11 @@
         "id": "6b93d86df7ffb1ff",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "English/README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "6b93d86df7ffb1ff",
   "lastOpenFiles": [
-    "conventions/README.md",
-    "Français/conventions/README.md",
-    "English/conventions/README.md",
-    "Dibi/README.md",
-    "conventions/Indentation.md",
-    "English/conventions/indentation.md",
-    "Français/conventions/indentation.md",
-    "README.md",
-    "Français/README.md",
-    "English/README.md"
+    "English/README.md",
+    "English/syntax/README.md",
+    "English/syntax/functions/call.md",
+    "English/syntax/Input_and_Output/Console/Console_output.md",
+    "English/syntax/POO/methods/call.md",
+    "English/syntax/prefixe/README.md",
+    "English/syntax/variables/Constantes.md",
+    "English/syntax/variables/Déclaration_variables.md",
+    "English/syntax/variables/utilisation_variables.md",
+    "English/syntax/variables/Modification_variables.md"
   ]
 }
