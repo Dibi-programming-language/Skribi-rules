@@ -18,7 +18,7 @@ foo:Bar()
 
 ## Pourquoi ?
 
-Le dibi utilise une syntaxe vso (verbe-sujet-objet), la méthode se place donc au début.
+Le dibi utilise une syntaxe vso (verbe-sujet-objet), la méthode se place donc au début pour respecter ce principe.
 
 
 # English
