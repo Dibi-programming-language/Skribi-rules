@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "syntax/variables/Déclaration_variables.md",
+            "file": "English/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "syntax/variables/Déclaration_variables.md",
+                "file": "English/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b93d86df7ffb1ff",
   "lastOpenFiles": [
-    "syntax/variables/Déclaration_variables.md",
-    "syntax/variables/Modification_variables.md",
-    "syntax/variables/Utilisation_variables.md",
-    "syntax/variables/Constantes.md",
-    "syntax/types/types.md",
-    "conventions/Indentation.md",
-    "conventions/README.md",
-    "syntax/Input_and_Output/Console/Console_output.md",
-    "README.md",
-    "syntax/POO/methods/call.md"
+    "English/README.md",
+    "English/syntax/README.md",
+    "English/syntax/functions/call.md",
+    "English/syntax/Input_and_Output/Console/Console_output.md",
+    "English/syntax/POO/methods/call.md",
+    "English/syntax/prefixe/README.md",
+    "English/syntax/variables/Constantes.md",
+    "English/syntax/variables/Déclaration_variables.md",
+    "English/syntax/variables/utilisation_variables.md",
+    "English/syntax/variables/Modification_variables.md"
   ]
 }
