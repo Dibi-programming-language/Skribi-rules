@@ -1,4 +1,4 @@
-Given a foo variable of Uiui type, to create this variable you must :
+Given a foo variable of `Uiui` type, to create this variable you must :
 ```skribi
 foo:Uiui = value
 ```

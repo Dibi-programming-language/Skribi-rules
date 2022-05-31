@@ -1,5 +1,5 @@
-En Skribi l'indentation n'est pas obligatoire mais vivement conseillée.
-Soit un bloc de code, tout ce qui est dans ce bloc doit être décalé de 4 espaces vers la doite par rapport à l'extérieur du bloc. **L'indentation ne défini pas le bloc de code**.
+En Skribi l'indentation n'est pas obligatoire, mais vivement conseillée.
+Soit un bloc de code, tout ce qui est dans ce bloc doit être décalé de quatre espaces vers la droite par rapport à l'extérieur du bloc. **L'indentation ne défini pas le bloc de code**.
 Ce qui doit être indenté :
 - conditions
 - boucles
