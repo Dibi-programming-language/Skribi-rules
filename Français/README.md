@@ -15,4 +15,4 @@ Il existe pour le moment 2 grandes parties dans ce repo :
 
 Actions basiques :
 * [fonctions](./syntax/functions/call.md)
-* [output dans la console](./syntax/Input_and_Output/Console/Console_output.md)
+* [output dans la console](Console_sortie.md)
