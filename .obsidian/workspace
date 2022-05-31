@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Français/syntax/POO/methods/call.md",
+            "file": "Dibi/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français/syntax/POO/methods/call.md",
+                "file": "Dibi/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b93d86df7ffb1ff",
   "lastOpenFiles": [
-    "Français/syntax/POO/methods/call.md",
-    "Français/syntax/Input_and_Output/Console/Console_output.md",
-    "English/syntax/variables/Déclaration_variables.md",
-    "English/syntax/variables/Constantes.md",
-    "English/syntax/POO/methods/call.md",
-    "English/README.md",
-    "English/syntax/README.md",
+    "Dibi/README.md",
     "English/syntax/functions/call.md",
     "English/syntax/Input_and_Output/Console/Console_output.md",
-    "English/syntax/prefixe/README.md"
+    "English/syntax/POO/methods/call.md",
+    "English/syntax/types/types.md",
+    "English/syntax/variables/Constantes.md",
+    "English/syntax/variables/Déclaration_variables.md",
+    "English/syntax/variables/Modification_variables.md",
+    "English/syntax/variables/utilisation_variables.md",
+    "English/README.md"
   ]
 }
