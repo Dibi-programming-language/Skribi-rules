@@ -7,11 +7,8 @@
         "id": "6b93d86df7ffb1ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "English/README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6b93d86df7ffb1ff",
   "lastOpenFiles": [
-    "English/README.md",
+    "Français/README.md",
+    "Français/syntax/README.md",
     "English/syntax/README.md",
-    "English/syntax/functions/call.md",
-    "English/syntax/Input_and_Output/Console/Console_output.md",
-    "English/syntax/POO/methods/call.md",
-    "English/syntax/prefixe/README.md",
-    "English/syntax/variables/Constantes.md",
-    "English/syntax/variables/Déclaration_variables.md",
-    "English/syntax/variables/utilisation_variables.md",
-    "English/syntax/variables/Modification_variables.md"
+    "README.md",
+    "Français/syntax/Fonctions/README.md",
+    "Français/syntax/Fonctions/utilisation.md",
+    "Français/syntax/POO/methods/utilisation.md",
+    "English/syntax/types/types.md",
+    "English/syntax/variables/Set_new_variable.md",
+    "Français/syntax/variables/utilisation_variables.md"
   ]
 }

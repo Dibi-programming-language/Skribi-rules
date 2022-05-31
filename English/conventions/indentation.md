@@ -20,5 +20,5 @@ outside
 	    sub-block2
 ```
 
-Issue raised : indentation isn't necessarly for a block of code
+Issue raised : indentation isn't necessarily for a block of code
 

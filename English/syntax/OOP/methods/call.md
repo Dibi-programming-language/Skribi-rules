@@ -14,7 +14,7 @@ In the case of a `foo` static method belonging to the class `Bar`, it's exactly 
 foo:Bar()
 ```
 
-## Why ?
+# Why ?
 
 Dibi use a vso (verb-subject-object) syntax, the method is therefore placed at the beginning.
 
