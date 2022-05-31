@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/syntax/types/types.md",
+            "file": "Français/syntax/Fonctions/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/syntax/types/types.md",
+                "file": "Français/syntax/Fonctions/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b93d86df7ffb1ff",
   "lastOpenFiles": [
+    "Français/syntax/Fonctions/README.md",
+    "Français/syntax/Fonctions/utilisation.md",
+    "Français/syntax/POO/methods/utilisation.md",
     "English/syntax/types/types.md",
     "English/syntax/variables/Set_new_variable.md",
     "Français/syntax/variables/utilisation_variables.md",
     "Français/syntax/variables/Modification_variables.md",
     "Français/syntax/variables/Déclaration_variables.md",
     "Français/syntax/variables/Constantes.md",
-    "Français/syntax/prefixe/README.md",
-    "Français/conventions/indentation.md",
-    "Français/syntax/Entrées_sorties/Console/Console_sortie.md",
-    "Dibi/README.md"
+    "Français/syntax/prefixe/README.md"
   ]
 }

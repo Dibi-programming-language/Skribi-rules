@@ -3,4 +3,4 @@ La fonction devra être utilisée de cette façon :
 ```skribi
 foo(arg1, arg2, arg3)
 ```
-La syntax est différente pour les [méthodes](../POO/methods/call.md) !
+La syntax est différente pour les [méthodes](Français/syntax/POO/methods/utilisation.md) !

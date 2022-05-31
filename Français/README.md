@@ -14,5 +14,5 @@ Il existe pour le moment 2 grandes parties dans ce repo :
 * [les conventions](./conventions/) (fichier [[conventions/README]])
 
 Actions basiques :
-* [fonctions](./syntax/functions/call.md)
+* [fonctions](Français/syntax/Fonctions/utilisation.md)
 * [output dans la console](Console_sortie.md)

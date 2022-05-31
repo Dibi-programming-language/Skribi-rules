@@ -3,7 +3,7 @@ Soit un texte contenu dans une variable `foo`, pour afficher ce texte dans la co
 oste:Adatali(foo)
 ```
 
-`Oste` signifie Montrer en Dibi et `Adatali` signifie Console, d'où le choix de la [méthode](../../POO/methods/call.md) et de la [classe](../../POO/)
+`Oste` signifie Montrer en Dibi et `Adatali` signifie Console, d'où le choix de la [méthode](Français/syntax/POO/methods/utilisation.md) et de la [classe](../../POO/)
 
 
 
