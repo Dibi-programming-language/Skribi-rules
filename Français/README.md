@@ -11,7 +11,7 @@ Le projet est là pour donner des pistes d'avancement.
 
 Il existe pour le moment 2 grandes parties dans ce repo :
 * [la syntax](./syntax/) (fichier [[Français/syntax/README]])
-* [les conventions](./conventions/) (fichier [[conventions/README]])
+* [les conventions](./conventions/) (fichier [[Français/conventions/README]])
 
 Actions basiques :
 * [fonctions](./syntax/Fonctions/utilisation.md)

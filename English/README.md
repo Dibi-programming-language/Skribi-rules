@@ -11,7 +11,7 @@ The project is here to give you some clues on the progress.
 
 There is, at the moment, 2 main parts in this repository :
 * [syntax](./syntax/) (file [[English/syntax/README]])
-* [conventions](./conventions/) (file [[conventions/README]])
+* [conventions](./conventions/) (file [[English/conventions/README]])
 
 Actions basiques :
 * [fonctions](./syntax/functions/call.md)
